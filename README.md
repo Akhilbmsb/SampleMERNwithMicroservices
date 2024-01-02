@@ -1,8 +1,6 @@
 # orchestration project
 
 
-# AWS CLI and Boto3 Setup
-
 ## Prerequisites for project to kick start project
 
 Before you start pls see you have these
